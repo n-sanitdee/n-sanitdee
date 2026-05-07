@@ -4,8 +4,6 @@
 
 ✉️ [n.sanitdee@gmail.com](mailto:n.sanitdee@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/n-sanitdee](https://www.linkedin.com/in/n-sanitdee/)
 
-> 🌐 **[View my resume →](https://n-sanitdee.github.io)**
-
 ---
 
 I'm a linguist by training and a data person by practice. My path has taken me through teaching, multilingual coordination, content analysis, and procurement — each role a different lens on the same underlying question: how language carries meaning across people, systems, and contexts.
