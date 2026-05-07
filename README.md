@@ -45,6 +45,4 @@ Yoga · tea · photography · cooking · AI trends · cat enthusiast
 
 ---
 
-<sub>Last updated May 2026</sub>
-
-> 🌐 **[View this resume as a webpage →](https://n-sanitdee.github.io/)**
+> 🌐 **[View my resume →](https://n-sanitdee.github.io/)**
