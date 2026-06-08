@@ -27,7 +27,7 @@ Most recently, this has taken the form of Lanna LLM, an ongoing project evaluati
 ## 🔬 Selected Projects
 
 - **2026** — *[LannaBench](https://n-sanitdee.github.io/northern-thai-llm-site/)* — ongoing project evaluating how well large language models understand the Northern Thai (Lanna) dialect
-- **2026** — *[Thai LGBTQ+ Colloquials Through the Lens of Construction Grammar](https://drive.google.com/file/d/1Woc2m6xQxkPEvawhHQJNCBxq081yx3Yo/view?usp=sharing)* — SocAntNet#25, Mahidol University
+- **2026** — *[Thai LGBTQ+ Colloquials Through the Lens of Construction Grammar](https://drive.google.com/file/d/1Woc2m6xQxkPEvawhHQJNCBxq081yx3Yo/view?usp=sharing)* — [SocAntNet#25](https://sites.google.com/mahidol.ac.th/socantnetwork2569/home), Mahidol University
 - **2024** — Enhancing German–English spoken language translation models
 - **2024** — Helsinki Digital Humanities Hackathon (DHH24)
 - **2023** — Machine translation mastery: OpenNMT-py, attention, beam search, multilingual adaptation
